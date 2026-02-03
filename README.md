@@ -96,11 +96,11 @@ Meu objetivo é crescer profissionalmente na área de tecnologia, desenvolvendo 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="MySql" 
+    title="MySql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 
 <br/>

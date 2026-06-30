@@ -1,11 +1,12 @@
 # 🧑🏽‍💻 Jackson Jesus
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend Java`**
+👋 Olá! Eu sou Jackson Jesus, desenvolvedor focado no backend e apaixonado por tecnologia.
+Atualmente curso Bacharelado em Sistemas de Informação e dedico meus estudos ao ecossistema Java, construindo aplicações robustas, estruturadas e eficientes.
 
-👋 Olá! Eu sou Jackson Jesus, desenvolvedor FullStack em formação e apaixonado por tecnologia.
-Atualmente curso Barcharelado em Sistemas de Informação e tenho base em lógica de programação, desenvolvimento web e back-end com PHP.
-Já estudei e pratiquei com HTML, CSS, PHP, Java-Script, C e MySQL, e hoje foco em construir projetos práticos para consolidar minha base e evoluir como desenvolvedor.
-Meu objetivo é crescer profissionalmente na área de tecnologia, desenvolvendo soluções reais e aprimorando continuamente minhas habilidades.
+Tenho uma base sólida em lógica de programação, arquitetura backend e manipulação de dados com MySQL. Embora meu foco seja totalmente voltado para o desenvolvimento backend, possuo o conhecimento essencial em tecnologias web (HTML, CSS, JavaScript e PHP) para garantir uma comunicação fluida e integrações precisas com o frontend.
+
+Atualmente, concentro minha energia no desenvolvimento de projetos práticos para consolidar conceitos de POO, padrões de projeto e evoluir como desenvolvedor. Meu objetivo é ingressar e crescer profissionalmente na área de tecnologia.
 
 <p align="left">
     <a href="">
@@ -102,6 +103,23 @@ Meu objetivo é crescer profissionalmente na área de tecnologia, desenvolvendo 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="Spring" 
+    title="Spring"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+
 
 <br/>
 <br/>

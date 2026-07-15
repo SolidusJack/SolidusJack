@@ -41,7 +41,7 @@ Atualmente, concentro minha energia no desenvolvimento de projetos práticos par
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -49,7 +49,7 @@ Atualmente, concentro minha energia no desenvolvimento de projetos práticos par
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -57,7 +57,7 @@ Atualmente, concentro minha energia no desenvolvimento de projetos práticos par
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -66,7 +66,7 @@ Atualmente, concentro minha energia no desenvolvimento de projetos práticos par
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -75,7 +75,7 @@ Atualmente, concentro minha energia no desenvolvimento de projetos práticos par
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -83,7 +83,7 @@ Atualmente, concentro minha energia no desenvolvimento de projetos práticos par
     align="left" 
     alt="Laravel" 
     title="Laravel"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
@@ -92,7 +92,7 @@ Atualmente, concentro minha energia no desenvolvimento de projetos práticos par
     align="left" 
     alt="Git" 
     title="Git"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -100,7 +100,7 @@ Atualmente, concentro minha energia no desenvolvimento de projetos práticos par
     align="left" 
     alt="MySql" 
     title="MySql"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -108,7 +108,7 @@ Atualmente, concentro minha energia no desenvolvimento de projetos práticos par
     align="left" 
     alt="Java" 
     title="Java"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
@@ -116,7 +116,7 @@ Atualmente, concentro minha energia no desenvolvimento de projetos práticos par
     align="left" 
     alt="Spring" 
     title="Spring"
-    width="50px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
